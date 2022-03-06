@@ -80,7 +80,7 @@ class ChartingState extends MusicBeatState
 		['Change Character', "Value 1: Character to change (Dad, BF, GF)\nValue 2: New character's name"]
 	    ['Gradient', "Value 1:Play it 1 beat per min/nValue2: Play it 2 beat per min"]
         ['Lighting Timer', "Value 1:Play it 1 beat per min/nValue2: Play it 2 beat per min"]
-
+        [;
 	var _file:FileReference;
 
 	var UI_box:FlxUITabMenu;
